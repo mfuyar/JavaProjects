@@ -1,6 +1,6 @@
 package review23jan;
 
-public class arraytranspose {
+public class arraytranspose1 {
 
 	public static void main(String[] args) {
 

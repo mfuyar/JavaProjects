@@ -1,6 +1,6 @@
 package com.sprinta.java.class1;
 
-public class ArithmaticOperator {
+public class ArithmaticOperator1 {
 	public static void main(String args[]) {
 		
 		int number1 = 6, number2 =100, number3=10, number4 = 2, number5=3, result;
